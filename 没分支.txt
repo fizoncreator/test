@@ -2,8 +2,4 @@
 有一说一
 确实
 asasasasasasasas
-<<<<<<< HEAD
 神说：爬
-=======
-哈利路亚
->>>>>>> b4ca1e0d366559ea74bde2b93c0279b954d50f4a
